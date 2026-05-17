@@ -24,7 +24,7 @@ Cura AI is an AI-powered clinical trial management platform designed to eliminat
 ## The Cura AI Solution: Three-Pillar Platform
 ###  1. DataGuardian — Intelligent Data Validation
 - Automates validation against clinical trial protocols
--Real-time issue detection and SDTM dataset generation
+- Real-time issue detection and SDTM dataset generation
 - Ensures FDA and EMA compliance
 - Impact: Eliminates 95% of manual data cleaning, reduces data lock timelines by 60%
 
