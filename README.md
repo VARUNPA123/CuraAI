@@ -6,13 +6,15 @@ Cura AI is an AI-powered clinical trial management platform designed to eliminat
  “Cura AI bridges data, compliance, and decision intelligence — revolutionizing how trials are managed.”
  
 ## The Problem: Clinical Trials Are Broken
-Challenge	Impact
-$85B wasted annually	Data mismanagement and redundancy
-Only 2% of data validated	Errors before submission
-30% patient dropout rate	Costs $6,533 per patient
-95% manual data cleaning	Time-intensive, error-prone
-81% cite data governance issues	Major compliance challenge
-83 days for Phase III CSR completion	Delayed approvals and market access
+
+| Challenge | Impact |
+|------------|---------|
+| $85B wasted annually | Data mismanagement and redundancy |
+| Only 2% of data validated | Errors before submission |
+| 30% patient dropout rate | Costs $6,533 per patient |
+| 95% manual data cleaning | Time-intensive, error-prone |
+| 81% cite data governance issues | Major compliance challenge |
+| 83 days for Phase III CSR completion | Delayed approvals and market access |
 
 ## The Cura AI Solution: Three-Pillar Platform
 ###  1. DataGuardian — Intelligent Data Validation
