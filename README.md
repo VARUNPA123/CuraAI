@@ -1,10 +1,10 @@
 # Cura AI: Revolutionizing Clinical Trials
 ## _Transforming Clinical Research through Intelligent Automation_
-
+------------------------------------------------------------------------------------
 ## Overview
 Cura AI is an AI-powered clinical trial management platform designed to eliminate inefficiencies, accelerate study timelines, and ensure regulatory compliance. It integrates intelligent data validation, predictive risk analytics, and automated clinical study reporting, offering a unified, end-to-end solution that streamlines every phase of clinical trial operations.
  “Cura AI bridges data, compliance, and decision intelligence — revolutionizing how trials are managed.”
- 
+ ------------------------------------------------------------------------------------
 ## The Problem: Clinical Trials Are Broken
 
 | Challenge | Impact |
@@ -15,7 +15,7 @@ Cura AI is an AI-powered clinical trial management platform designed to eliminat
 | 95% manual data cleaning | Time-intensive, error-prone |
 | 81% cite data governance issues | Major compliance challenge |
 | 83 days for Phase III CSR completion | Delayed approvals and market access |
-
+------------------------------------------------------------------------------------
 ## The Cura AI Solution: Three-Pillar Platform
 ###  1. DataGuardian — Intelligent Data Validation
 Automates validation against clinical trial protocols
@@ -35,21 +35,25 @@ ICH E3-compliant CSR structure
 Automated synthesis of SDTM and ADaM datasets
 One-click PDF generation for regulatory submission
 Impact: 80% reduction in CSR authoring time and immediate regulatory readiness
-
+------------------------------------------------------------------------------------
 ## Key Differentiators
-Feature	Advantage
-End-to-End Solution	From data validation to report submission
-Regulatory-First Design	Compliance integrated at every step
-AI-Native Architecture	Purpose-built for clinical trial workflows
-Seamless Integration	Works with existing EDC and CTMS systems
 
+| Feature | Advantage |
+|---------|------------|
+| End-to-End Solution | From data validation to report submission |
+| Regulatory-First Design | Compliance integrated at every step |
+| AI-Native Architecture | Purpose-built for clinical trial workflows |
+| Seamless Integration | Works with existing EDC and CTMS systems |
+------------------------------------------------------------------------------------
 ## Tech Stack
-Layer	Tools
-Frontend	Streamlit
-Backend	Openrouter
-AI Models	Meta Llama LLM, Scikit-learn, PyTorch
-Deployment	Replit
-Compliance	SDTM, ADaM, ICH E3, FDA 21 CFR Part 11
 
+| Layer | Tools |
+|-------|--------|
+| Frontend | Streamlit |
+| Backend | Openrouter |
+| AI Models | Meta Llama LLM, Scikit-learn, PyTorch |
+| Deployment | Replit |
+| Compliance | SDTM, ADaM, ICH E3, FDA 21 CFR Part 11 |
+------------------------------------------------------------------------------------
 ## Vision
 “Cura AI envisions a future where clinical trials are faster, smarter, and more transparent — accelerating life-saving therapies for patients worldwide.”
